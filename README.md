@@ -32,10 +32,6 @@ For the encryption purpose, we have used numerical methods to determine the root
 
 ### [Project Report](https://github.com/MumukshTayal/Enhanced_Encryption_Decryption/blob/main/Report.pdf)
 
-## Usage
-
-
-
 ***
 
 <p align='center'>Created with :heart: by <a href="https://github.com/MumukshTayal">Mumuksh Tayal</a></p>
