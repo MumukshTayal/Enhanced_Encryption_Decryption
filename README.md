@@ -17,6 +17,8 @@ We can also check or verify whether they are accurate or not by knowing the inpu
 There are many algorithms in order to enhance the encryption method but our project aims to implement a symmetric encryption-decryption algorithm. As we have mentioned above, encryption is done by the one-way function and Diffie-Hellman is used to encrypt it.
 For the encryption purpose, we have used numerical methods to determine the roots of the one-way, which is the cipher-text for our message. Decryption follows the exact opposite approach. We would also compare and present the results about the performance of the various numerical methods. 
 
+## Results
+
 ![image](https://user-images.githubusercontent.com/72244706/167375616-b6afbc68-bfa0-438f-ba9b-ca3458d83bcd.png)
 
 
